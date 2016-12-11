@@ -6,7 +6,7 @@
 Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 
 1. Rotation
-![](https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg | width=100)
+<img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg" alt="alt text" width="700">
 
 2. Scale
 
