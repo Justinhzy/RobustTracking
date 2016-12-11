@@ -1,6 +1,8 @@
 # **Robust and Real-Time Tracker based on Consensus-based Matching and Tracking**
 
-*Yujie Fang, Zeyi Huang*
+*16623 Advanced Computer Vision Apps Project*
+
+*By Yujie Fang and Zeyi Huang*
 
 ## **Video Demo Link**
 
@@ -64,3 +66,10 @@ In this project, we investigate a simple tracking strategy based on keypoint. In
 
 ## **Schedule**
 
+- **Check Point 1**: Research different tracking methods and implement the basic framework of the video processing for our tracker
+
+- **Check Point 2**: Implement the first part of our tracker
+
+- **Check Point 3**: Implement the second part of our tracker
+
+- **Check Point 4**: Do the profiling and improve our application with respect to accuracy and efficiency
