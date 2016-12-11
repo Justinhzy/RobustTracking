@@ -17,7 +17,15 @@ Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 
 2. Scale
 
+<img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern1.jpg" alt="alt text" width="600">
+
+<img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern2.jpg" alt="alt text" width="600">
+
 3. Performance
+
+<img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/150p.jpg" alt="alt text" width="600">
+
+<img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/210p.jpg" alt="alt text" width="600">
 
 ## **Title**
 
