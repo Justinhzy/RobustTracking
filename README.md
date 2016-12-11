@@ -42,17 +42,28 @@ In this project, we investigate a simple tracking strategy based on keypoint. In
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/arm2.jpg" alt="alt text" width="500">
 
+Above figures show the results when changing the rotation of the target objects. In the first two figures, we can see that our application can robustly detect the target book when changing the orientation of it.
+
+
+We also test our application in another scenario when detecting human arms. The last two figures shows that our applica- tion can correctly detect the rotated arm with high accuracy.
+
 - **Scale**
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern1.jpg" alt="alt text" width="500">
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern2.jpg" alt="alt text" width="500">
 
+In addition, we test our application under the changes of scale and we find that our application can acurately handle this scenario. Above two figures show the result of the test. We can see that as the iPad is getting away from the target object, it can still successfully detect the target object with a smaller scale.
+
 - **Performance**
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/150p.jpg" alt="alt text" width="500">
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/210p.jpg" alt="alt text" width="500">
+
+In addition, we analyze our application with respect to FPS under certain keypoints. As the default maximum FPS for OpenCV is 30 FPS, the result with around 30 FPS is generally with high efficiency. The first figure shows the result FPS when detecting 151 keypoints simultaneously. We can see that the FPS is around 30, which means our application is efficient under this situation. However, when the number of the detected keypoints is 210, which is shown in the second figure, the FPS decreased to 18.74. This indicates that when the number of keypoints increases, the efficiency of our application decreases acordingly.
+
+After considering the results shown abouve, we think one of the reasons that cause the efficiency is that our application only uses the CPU to process each image frame, whcih is not efficient compared to GPU. A profiling of the usage of CPU is shown in the next section. As a result, furhter work woulb be taking advantage of the high efficency of GPU when processing image-based application to accelerate our application when detecting large number of keypoints.
 
 ## **Goals & Deliverables**
 
