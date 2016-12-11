@@ -6,8 +6,7 @@
 Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 
 1. Rotation
-
-![image](https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg "Title" {width=40px height=400px})
+![](https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg | width=100)
 
 2. Scale
 
@@ -24,3 +23,4 @@ Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 ## **Goals & Deliverables**
 
 ## **Schedule**
+https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg
