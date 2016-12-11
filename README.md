@@ -5,7 +5,7 @@
 ## **Experimental Results**
 Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 
-1. Rotation
+- **Rotation**
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/book1.jpg" alt="alt text" width="600">
 
@@ -15,13 +15,13 @@ Video Demo: [Click here to watch the demo video](https://youtu.be/qR5i5zhDpw8)
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/arm2.jpg" alt="alt text" width="600">
 
-2. Scale
+- **Scale**
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern1.jpg" alt="alt text" width="600">
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/pattern2.jpg" alt="alt text" width="600">
 
-3. Performance
+- **Performance**
 
 <img src="https://raw.githubusercontent.com/EricFang1002/RobustTracking/master/Experimental Results/150p.jpg" alt="alt text" width="600">
 
